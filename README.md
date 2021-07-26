@@ -1,12 +1,13 @@
-# Stop-Signs-Detaction
+# Stop-Signs-Detaction-using-CNN
 
-A neural network model that detect "Stop-Signs"  using ""convolutional Neural networks "CNN" 
+A CNN neural network model that detect "Stop-Signs"
 
 the project was written in jopyter notebook so it is best to open using it 
 
 the "resize&rename file" reshape all the training samples to one size and change the names so that it is eaiser to itrate thought them 
 
-the training samples are at a google drive https://drive.google.com/file/d/1ioQ5V3-MaKioybYhqBB0oEpw-uubBG2f/view?usp=sharing
+the labeling software used is "https://github.com/tzutalin/labelImg"  it preduce a bunch of xml files ... so that is "xml_to_csv" comes in to make a csv file that is easly handeld by pandas.
 
-the labeling software used is "https://github.com/tzutalin/labelImg"
+# tests and results : 
+there is 2 videos and many pics in the test folder .
 
