@@ -10,12 +10,10 @@ the labeling software used is "https://github.com/tzutalin/labelImg"  it preduce
 # tests and results : 
 there is 2 videos and many pics in the main and test_results folder . here is some of them 
 
-![Alt text](test_results/X37.png?raw=true "tested_1")
-
-![Alt text](test_results/X55.png?raw=true "tested")
+![Alt text](test_results/X37.png?raw=true "tested_1")   ![Alt text](test_results/X55.png?raw=true "tested")
 
 
-https://user-images.githubusercontent.com/76881430/127760846-e7a82b85-1798-47c2-8673-cb74de84560c.mp4
+
 
 
 
