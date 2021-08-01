@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Data</folder>
+	<filename>X109.png</filename>
+	<path>C:\Users\Toshiba\Desktop\CNN MODEL\Data\X109.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>STOP_SIGN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>144</ymin>
+			<xmax>206</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>
