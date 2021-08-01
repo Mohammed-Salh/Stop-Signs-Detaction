@@ -9,7 +9,7 @@ the "resize&rename file" reshape all the training samples to one size and change
 the labeling software used is "https://github.com/tzutalin/labelImg"  it preduce a bunch of xml files ... so that is "xml_to_csv" comes in to make a csv file that is easly handeld by pandas.
 
 # tests and results : 
-there is 2 videos and many pics in the test folder . the fallowing are some result images 
+there is 2 videos and many pics in the main and test_results folder . here is some of them 
 
 ![Alt text](test_results/X37.png?raw=true "tested_1")
 
